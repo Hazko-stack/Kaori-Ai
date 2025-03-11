@@ -1,5 +1,5 @@
 "use client";
-import { ArrowRight, MessageSquare, Sparkles, Clock, Bot } from "lucide-react";
+import { ArrowRight, Bot } from "lucide-react";
 import Link from "next/link";
 
 export default function HeroSection() {
